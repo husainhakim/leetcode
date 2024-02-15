@@ -1,4 +1,5 @@
-def addDigits(num):
+class Solution
+    def addDigits(num):
         while num>9:
             sum=0
             while num!=0:
